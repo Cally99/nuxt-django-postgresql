@@ -6,3 +6,9 @@ psycopg2-binary==2.7.5
 celery==4.2.1
 django-celery-beat==1.1.1
 django-celery-results==1.0.1
+django-configurations = "*"
+django-extensions = "*"
+dj-database-url = "*"
+djangorestframework = "*"
+djoser = "*"
+django-cors-headers = "*"
